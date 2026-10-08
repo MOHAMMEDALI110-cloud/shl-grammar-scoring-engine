@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+scipy
+librosa
+catboost
+torch
+transformers
+openai-whisper
